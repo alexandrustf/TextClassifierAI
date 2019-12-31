@@ -18,7 +18,8 @@ We will use the gensim library for doc2vec.
 DBOW is the Doc2Vec model analogous to Skip-gram model in Word2Vec. The paragraph vectors are obtained by training a neural network on the task of predicting a probability distribution of words in a paragraph given a randomly-sampled word from the paragraph.
 
 Accuracy is: 0.7980356046654389 for 21.000 instances time of running: 15 minutes
-	        0.8063426986615218 for 27.000 instances, time of running 20 minutes
+	        
+		0.8063426986615218 for 27.000 instances, time of running 20 minutes
 	        
 
 https://towardsdatascience.com/multi-class-text-classification-with-doc2vec-logistic-regression-9da9947b43f4
