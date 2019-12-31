@@ -27,3 +27,5 @@ Accuracy is: 0.7980356046654389 for 21.000 instances time of running: 15 minutes
 
 https://towardsdatascience.com/multi-class-text-classification-with-doc2vec-logistic-regression-9da9947b43f4
 https://github.com/susanli2016/NLP-with-Python/blob/master/Doc2Vec%20Consumer%20Complaint.ipynb
+
+**Put the implementation in MOROCO-master in order to have the dataset.
