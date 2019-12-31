@@ -1,7 +1,8 @@
 # TextClassifierAI
 
 
-1.	The purpose of the project is to implement a solution in order to classify the topic of a text: culture, finance, politics, science, sports, tech.
+1.	The purpose of the project is to implement a solution in order to classify the topic of a text: culture, finance, politics, science, sports, tech. The implementation is written in Python 3. The dataset can be found at https://github.com/butnaruandrei/MOROCO , where are over 20000 texts labeled.
+
 2.	The first step is to make a vectorial representation of the texts:
 	BOW (bag of words) : implemented  in main.py and documented from https://www.freecodecamp.org/news/an-introduction-to-bag-of-words-and-how-to-code-it-in-python-for-nlp-282e87a9da04/
 
